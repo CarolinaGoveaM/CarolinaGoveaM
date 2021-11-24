@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola 👋, My name is Carolina
+#### Front End Developer
 
-<!--
-**CarolinaGoveaM/CarolinaGoveaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dedicated FrontEnd Developer! I am currently taking the ReactJs course for the Front End Development Career at Coder House.
 
-Here are some ideas to get you started:
+Habilidades: HTML / CSS / JS / REACT / BOOTSTRAP / GIT / SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en Web page of an entrepreneur "Encantos" 
+- 🌱 Estoy aprendiendo ReactJs. 
+- 📫 Cómo contactarme: dennysgovea@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CarolinaGoveaM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/carolina-govea-front-end//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://carolinagoveam.github.io/Updated-Portfolio/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaGoveaM)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarolinaGoveaM)  
+
