@@ -1,4 +1,4 @@
-### Hola 👋, My name is Carolina
+### Hi 👋, My name is Carolina
 #### Front End Developer
 
 Dedicated FrontEnd Developer! I am currently taking the ReactJs course for the Front End Development Career at Coder House.
