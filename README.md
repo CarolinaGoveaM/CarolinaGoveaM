@@ -1,11 +1,11 @@
 ### Hi there 👋, My name is Carolina
 #### Front End Developer
-Dedicated FrontEnd Developer! I am currently taking the ReactJs course for the Front End Development Career at Coder House.
+Dedicated FrontEnd Developer! I did the React FrontEnd Development Career at Coder House
 
 Skills: HTML / CSS / JS / REACT / BOOTSTRAP / GIT / SASS
 
 - 🔭 I’m currently working on Web page of an entrepreneur "Encantos" 
-- 🌱 I’m currently learning ReactJs. 
+- 🌱 React JS Front End Developer 
 - 📫 How to reach me: dennysgovea@gmail.com 
 
 
